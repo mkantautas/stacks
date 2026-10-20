@@ -335,7 +335,7 @@
     "@stacksjs/config": "0.75.244",
     "@stacksjs/database": "0.75.244",
     "@stacksjs/defaults": "0.75.244",
-    "@stacksjs/desktop": "^0.2.534",
+    "@stacksjs/desktop": "^0.2.612",
     "@stacksjs/dns": "0.75.244",
     "@stacksjs/email": "0.75.244",
     "@stacksjs/enums": "0.75.244",
@@ -402,7 +402,7 @@
     "@stacksjs/i18n": "0.75.244",
     "@stacksjs/cron": "0.75.244",
     "@stacksjs/sites": "0.75.244",
-    "bun-query-builder": "^0.3.8",
+    "bun-query-builder": "^0.3.17",
     "@stacksjs/desktop-build": "0.75.244"
   },
   "devDependencies": {

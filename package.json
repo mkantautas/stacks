@@ -103,7 +103,7 @@
   },
   "dependencies": {
     "stacks": "workspace:*",
-    "pickier": "^0.1.70"
+    "pickier": "^0.1.74"
   },
   "workspaces": [
     "storage/framework",
@@ -121,9 +121,9 @@
     "commit-msg": "bun x gitlint --edit \"$1\""
   },
   "devDependencies": {
-    "@stacksjs/components": "0.2.604",
-    "@stacksjs/stx": "0.2.607",
-    "better-dx": "^0.2.37",
-    "bun-plugin-stx": "0.2.607"
+    "@stacksjs/components": "0.2.611",
+    "@stacksjs/stx": "0.2.612",
+    "better-dx": "^0.2.38",
+    "bun-plugin-stx": "0.2.612"
   }
 }
